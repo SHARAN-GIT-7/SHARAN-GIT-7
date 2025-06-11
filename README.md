@@ -1,5 +1,4 @@
-
-<img src="git profile.jpg" height="100" width=100vh alt="python logo"  />
+ 
 <h1 align="left">Hey 👋 I am Sharanraj</h1>
 
 ###
